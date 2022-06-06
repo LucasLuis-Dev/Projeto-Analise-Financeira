@@ -1,5 +1,7 @@
 # Projeto-Analise-Financeira
 
+<img src="https://cdn.discordapp.com/attachments/965066624556232737/980940747073286174/Captura_de_tela_de_2022-05-30_18-06-44.png">
+
 ### Projeto de Análise Financeira com Python
 
 - Realizei este projeto sozinho do começo ao fim, utilizando as documentações das bibliotecas quando necessário e seguindo a descrição do projeto que nos foi passada no curso.
@@ -18,3 +20,7 @@
 - Em segunda lugar, é feito o envio dos e-mails automáticos para os 25 gerentes com o relatório de suas lojas em relação a meta definida pela diretoria, é enviado também a planilha de sua respectiva loja para cada gerente.
 - Em terceiro lugar, é feito a criação de duas planilhas, uma para o ranking da loja que teve mais vendas para a que teve menos vendas em relação ao ultimo dia de da base de dados de cada loja e também a outra para um ranking em relação as lojas que obtiveram mais vendas no ano para as que obtiveram menos vendas, logo após isso é criado de maneira automática uma pasta onde essas planilhas serão baixados e após isso essa pasta será comprimida para ser enviada por e-mail.
 - E por ultimo, é realizado o envio automático do e-mail para a diretoria, informando a melhor loja do ultimo dia e a pior, assim como a melhor loja do ano junto com a pior, também é enviado o arquivo comprimido que contém as planilhas com os rankings.
+
+## Vídeo demonstrativo:
+
+[![Watch the video](https://cdn.discordapp.com/attachments/965066624556232737/983445308728025199/Captura_de_tela_de_2022-06-06_16-00-02.png)](https://drive.google.com/file/d/1cF3Ho0HVdS0l8NyedrPngc3G47gwCooQ/view?usp=sharing)
